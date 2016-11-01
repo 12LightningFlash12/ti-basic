@@ -1,1 +1,3 @@
-
+program:ZELDA
+:{8, 16->dim([A]
+:
