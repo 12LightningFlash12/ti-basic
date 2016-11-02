@@ -2,3 +2,18 @@ ZAELDA:
 {8, 16->dim([A]
 Fill(0, [A]
 {3, 4->dim([B]
+ClrHome
+4->S
+4->T
+4->X
+4->Y
+0->N
+0->O
+10->[A](8,8
+9->[B](7,7
+prgmZELDAO
+5->[B](2,2
+0->A
+while 1
+Output(X,Y, "0
+If (S
